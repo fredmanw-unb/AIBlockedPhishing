@@ -1,0 +1,7 @@
+# Dependências de Deep Learning e Processamento de Dados para AIBlockedPhishing
+torch
+transformers
+scikit-learn
+pandas
+numpy
+tqdm
